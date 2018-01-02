@@ -1,0 +1,27 @@
+{
+  "name": "javascript-mochai-chai-testing",
+  "version": "1.0.0",
+  "description": "Javascript Testing Sederhana Mocha Chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rezaazman/javascript-mochai-chai-testing.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "Reza Azman Akbari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rezaazman/javascript-mochai-chai-testing/issues"
+  },
+  "homepage": "https://github.com/rezaazman/javascript-mochai-chai-testing#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.1.0"
+  }
+}
